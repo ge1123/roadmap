@@ -30,3 +30,8 @@
 - GitHub Actions、Azure DevOps Pipelines、GitLab CI（可比較）
 - Terraform、Azure Bicep、Pulumi
 - Trivy、OWASP Dependency-Check、dotnet format、Super-Linter
+
+## 學習節奏與追蹤
+- 依循 `todo/cicd_plan.md` 的待辦清單規劃每週目標，優先確保核心流水線（Build/Test/Artifact）運轉無誤。
+- 每完成一項待辦，更新流水線文件或 README 中的執行紀錄，累積可重複使用的範本與最佳實務。
+- 階段性回顧部署日誌與失敗案例，調整掃描門檻、通知路徑與回滾策略，確保流程可持續演進。
