@@ -1,5 +1,7 @@
 # 事件驅動與訊息系統學習計畫
 
+[待辦事項](../todo/messaging_plan.md)
+
 ## 目標
 - 理解事件驅動架構模式，掌握 Pub/Sub、CQRS、Saga 等設計
 - 熟悉 RabbitMQ、Kafka、Azure Service Bus 等訊息中介的差異與操作

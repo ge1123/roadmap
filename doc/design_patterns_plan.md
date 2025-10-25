@@ -1,5 +1,7 @@
 # 設計模式核心學習計畫
 
+[待辦事項](../todo/design_patterns_plan.md)
+
 ## 目標
 - 強化面向物件設計能力，提升程式可維護性與擴充性
 - 在 .NET 生態中理解模式與框架實踐（ASP.NET Core、EF Core 等）

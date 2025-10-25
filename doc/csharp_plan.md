@@ -3,6 +3,8 @@
 > 適用背景：曾開發 .NET 6 的工程師，聚焦 ASP.NET Core 內部機制、必備套件與現代化平台能力  
 > 目標：掌握語言演進 → 平台機制（Middleware、Filter、Attribute、DI、Hosting）→ 資料與訊息 → 整體架構與部署
 
+[待辦事項](../todo/csharp_plan.md)
+
 ## 階段 1｜語言、異步與效能基礎
 - **掌握重點**：`required`、Primary Constructors、Records、`switch` expression、`with`、`Span<T>`/`Memory<T>`、`ValueTask`
 - **實作練習**：

@@ -1,5 +1,7 @@
 # 分散式系統與 Kubernetes 學習計畫
 
+[待辦事項](../todo/distributed_systems_plan.md)
+
 ## 目標
 - 建立分散式系統設計思維：一致性、可用性、可觀測性、彈性伸縮
 - 熟悉容器化與 Kubernetes 基礎，能操作部署、監控、調試

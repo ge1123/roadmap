@@ -1,5 +1,7 @@
 # 前端整合學習計畫（Razor、React）
 
+[待辦事項](../todo/frontend_integration_plan.md)
+
 ## 目標
 - 理解 .NET 伺服端渲染與現代 SPA 的整合策略
 - 建立一致的設計系統、認證流程與 API 合約

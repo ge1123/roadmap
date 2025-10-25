@@ -1,5 +1,7 @@
 # 事件儲存與資料管線學習計畫
 
+[待辦事項](../todo/event_sourcing_plan.md)
+
 ## 目標
 - 掌握 Event Sourcing、CQRS 與資料管線設計，因應審計與回放需求
 - 熟悉資料流分層：Raw → Cleansed → Curated，並維持一致性

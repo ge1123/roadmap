@@ -1,5 +1,7 @@
 # Source Generators 與編譯期增強學習計畫
 
+[待辦事項](../todo/source_generators_plan.md)
+
 ## 目標
 - 理解 .NET Source Generators 運作機制與 Roslyn API
 - 以編譯期自動化減少樣板程式、提升效能

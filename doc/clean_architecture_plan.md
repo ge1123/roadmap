@@ -1,5 +1,7 @@
 # Clean Architecture 與微服務學習計畫
 
+[待辦事項](../todo/clean_architecture_plan.md)
+
 ## 目標
 - 建立分層、依賴反轉與界面隔離的實作能力
 - 將微服務與 Clean Architecture 結合，掌握界面、資料、部署邊界
